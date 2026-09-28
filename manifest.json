@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "path": "assets/videos/gallery/real-find-printer-then-trashbin.mp4",
+      "bytes": 19076384,
+      "sha256": "9bec185041e4343fc63028569b6de7a1fbfbf3d980acb5da720974249f20b6e4"
+    },
+    {
+      "path": "assets/videos/gallery/real-go-to-another-dog.mp4",
+      "bytes": 22143790,
+      "sha256": "8dff7cf7d5f42715c6536fea5e452970f7ccd438788cd91c77125623e413ee10"
+    },
+    {
+      "path": "assets/videos/gallery/real-go-to-basketball.mp4",
+      "bytes": 16363519,
+      "sha256": "3686404adda716d54dcc0ebbef4c397d407213a7dc25f0d11c5275687b17b5e4"
+    },
+    {
+      "path": "assets/videos/gallery/real-go-to-trash-bin.mp4",
+      "bytes": 11596734,
+      "sha256": "0ce813e5e416601806b338b754401a1f91028bcef80926da898a1d18bc089bbb"
+    },
+    {
+      "path": "assets/videos/gallery/sim-demand-driven.mp4",
+      "bytes": 9611863,
+      "sha256": "7588556341e31e1bd94aa24205d9b32fb8afa57aaedfe963550e4010d6efa24e"
+    },
+    {
+      "path": "assets/videos/gallery/sim-multi-object.mp4",
+      "bytes": 10759292,
+      "sha256": "c7051ed6a8589bb53c6e32d3d92a6d01eec1f8d07997281c72a7a11007864f63"
+    },
+    {
+      "path": "assets/videos/overview/overview-960.mp4",
+      "bytes": 2049038,
+      "sha256": "38222b3b1eaab206b624dff14112647a059dddae8021286b2aa871cf0c3ba335"
+    },
+    {
+      "path": "assets/videos/overview/overview.mp4",
+      "bytes": 6944255,
+      "sha256": "8756cc37d78c43f5dd2495e74e3613b4288861198ccfad9e03708bb54d861275"
+    }
+  ]
+}
