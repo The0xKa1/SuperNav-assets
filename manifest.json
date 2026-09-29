@@ -26,14 +26,29 @@
       "sha256": "7588556341e31e1bd94aa24205d9b32fb8afa57aaedfe963550e4010d6efa24e"
     },
     {
+      "path": "assets/videos/gallery/sim-multi-crossroom-16x9.mp4",
+      "bytes": 14444338,
+      "sha256": "edefef4fa2bb3fadc45a95b72d00fac5bb1e89a96629d15e54aa9f6ca22385c6"
+    },
+    {
       "path": "assets/videos/gallery/sim-multi-crossroom.mp4",
       "bytes": 21730764,
       "sha256": "d198304f91ffec9c5612274be1a3be69151e77cbcc7d79beb13c764741de6616"
     },
     {
+      "path": "assets/videos/gallery/sim-multi-livingroom-16x9.mp4",
+      "bytes": 10393688,
+      "sha256": "a7d3391ce0f6e2418c3071924e59940f15d163a5c30e3d936cce863bad02c1eb"
+    },
+    {
       "path": "assets/videos/gallery/sim-multi-livingroom.mp4",
       "bytes": 15640729,
       "sha256": "0c13b12c6fe5a9e5f9a1c310cb888da0bf9f5121802afc6d1d50189d9f4f33db"
+    },
+    {
+      "path": "assets/videos/gallery/sim-multi-lounge-16x9.mp4",
+      "bytes": 8395982,
+      "sha256": "f1bd3767dce4b83edd96be01d528e8b5a8111b2b0d06c61fab04ba8f2353a9e7"
     },
     {
       "path": "assets/videos/gallery/sim-multi-lounge.mp4",
@@ -44,6 +59,11 @@
       "path": "assets/videos/gallery/sim-multi-object.mp4",
       "bytes": 10759292,
       "sha256": "c7051ed6a8589bb53c6e32d3d92a6d01eec1f8d07997281c72a7a11007864f63"
+    },
+    {
+      "path": "assets/videos/gallery/sim-single-laptop-16x9.mp4",
+      "bytes": 2616154,
+      "sha256": "8e6fc430bea2dcbbad8cf5f75c04cc96aa1943b102da4c61e90e933fe29de73c"
     },
     {
       "path": "assets/videos/gallery/sim-single-laptop.mp4",

@@ -2,7 +2,7 @@
 
 Video assets for **SuperNav: An Agentic Navigation System for Any Task in Any Scene**.
 
-This repository contains the twelve videos used by the project page: ten gallery videos and two overview videos. Files are copied without recompression. The webpage, images, fonts, original source footage, and local preview files are maintained separately.
+This repository contains the twelve videos used by the current project page (ten gallery videos and two overview videos), plus four earlier 4:3 edits retained for reproducibility. The four new `*-16x9.mp4` simulation videos preserve the complete approved picture with white side bars. Files are copied without recompression. The webpage, images, fonts, original source footage, and local preview files are maintained separately.
 
 ## Video URLs
 
@@ -21,10 +21,14 @@ For reproducible links, replace `main` with the commit SHA of the desired revisi
 | `assets/videos/gallery/real-go-to-basketball.mp4` | 15.61 |
 | `assets/videos/gallery/real-go-to-trash-bin.mp4` | 11.06 |
 | `assets/videos/gallery/sim-demand-driven.mp4` | 9.17 |
+| `assets/videos/gallery/sim-multi-crossroom-16x9.mp4` | 13.78 |
 | `assets/videos/gallery/sim-multi-crossroom.mp4` | 20.72 |
+| `assets/videos/gallery/sim-multi-livingroom-16x9.mp4` | 9.91 |
 | `assets/videos/gallery/sim-multi-livingroom.mp4` | 14.92 |
+| `assets/videos/gallery/sim-multi-lounge-16x9.mp4` | 8.01 |
 | `assets/videos/gallery/sim-multi-lounge.mp4` | 12.16 |
 | `assets/videos/gallery/sim-multi-object.mp4` | 10.26 |
+| `assets/videos/gallery/sim-single-laptop-16x9.mp4` | 2.49 |
 | `assets/videos/gallery/sim-single-laptop.mp4` | 3.80 |
 | `assets/videos/overview/overview-960.mp4` | 1.87 |
 | `assets/videos/overview/overview.mp4` | 6.30 |
