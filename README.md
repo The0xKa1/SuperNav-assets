@@ -2,7 +2,7 @@
 
 Video assets for **SuperNav: An Agentic Navigation System for Any Task in Any Scene**.
 
-This repository contains the eight videos currently used by the project page: six gallery videos and two overview videos. Files are copied without recompression. The webpage, images, fonts, original source footage, and local preview files are maintained separately.
+This repository contains the twelve videos used by the project page: ten gallery videos and two overview videos. Files are copied without recompression. The webpage, images, fonts, original source footage, and local preview files are maintained separately.
 
 ## Video URLs
 
@@ -21,8 +21,12 @@ For reproducible links, replace `main` with the commit SHA of the desired revisi
 | `assets/videos/gallery/real-go-to-basketball.mp4` | 15.61 |
 | `assets/videos/gallery/real-go-to-trash-bin.mp4` | 11.06 |
 | `assets/videos/gallery/sim-demand-driven.mp4` | 9.17 |
+| `assets/videos/gallery/sim-multi-crossroom.mp4` | 20.72 |
+| `assets/videos/gallery/sim-multi-livingroom.mp4` | 14.92 |
+| `assets/videos/gallery/sim-multi-lounge.mp4` | 12.16 |
 | `assets/videos/gallery/sim-multi-object.mp4` | 10.26 |
-| `assets/videos/overview/overview-960.mp4` | 1.95 |
-| `assets/videos/overview/overview.mp4` | 6.62 |
+| `assets/videos/gallery/sim-single-laptop.mp4` | 3.80 |
+| `assets/videos/overview/overview-960.mp4` | 1.87 |
+| `assets/videos/overview/overview.mp4` | 6.30 |
 
 `manifest.json` records the size and SHA-256 checksum of each video. When updating a file, update its manifest entry as well. Keep unpublished source footage and unrelated files out of this repository.
