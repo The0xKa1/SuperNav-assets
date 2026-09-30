@@ -21,14 +21,44 @@
       "sha256": "0ce813e5e416601806b338b754401a1f91028bcef80926da898a1d18bc089bbb"
     },
     {
+      "path": "assets/videos/gallery/sim-demand-bathroom-decisions-16x9.mp4",
+      "bytes": 12402993,
+      "sha256": "2dee448f4401cc0c892424b09690dafa0df65ce09c9757af49b58079b891d31a"
+    },
+    {
+      "path": "assets/videos/gallery/sim-demand-cleaning-supplies-decisions-16x9.mp4",
+      "bytes": 6400991,
+      "sha256": "4944cd0a2f8a82b40ec232c93d19e10689462be1c80840ab2ff1576a6c12ecba"
+    },
+    {
       "path": "assets/videos/gallery/sim-demand-driven.mp4",
       "bytes": 9611863,
       "sha256": "7588556341e31e1bd94aa24205d9b32fb8afa57aaedfe963550e4010d6efa24e"
     },
     {
+      "path": "assets/videos/gallery/sim-demand-lost-items-decisions-16x9.mp4",
+      "bytes": 26585394,
+      "sha256": "cfe791836889278217f2f7743497a70bc27ab5a643be7a4ab3f36cbfeffb1796"
+    },
+    {
+      "path": "assets/videos/gallery/sim-demand-work-area-decisions-16x9.mp4",
+      "bytes": 20007546,
+      "sha256": "f6b779691b73dcbfe4e24357cc390f851751c0dbade5e5baa2967a75c9d18df0"
+    },
+    {
+      "path": "assets/videos/gallery/sim-multi-cafe-decisions-16x9.mp4",
+      "bytes": 13207513,
+      "sha256": "8d88a1e9a73bbf13511650353df641968a5ec6f9dd1fbab41fb17b877d3b53aa"
+    },
+    {
       "path": "assets/videos/gallery/sim-multi-crossroom-16x9.mp4",
       "bytes": 14444338,
       "sha256": "edefef4fa2bb3fadc45a95b72d00fac5bb1e89a96629d15e54aa9f6ca22385c6"
+    },
+    {
+      "path": "assets/videos/gallery/sim-multi-crossroom-decisions-16x9.mp4",
+      "bytes": 28956109,
+      "sha256": "55c77ca3466b5ee1c5be55832cf4e0f0dd1f3842ee7f57da46a44c172caae53a"
     },
     {
       "path": "assets/videos/gallery/sim-multi-crossroom.mp4",
@@ -41,6 +71,11 @@
       "sha256": "a7d3391ce0f6e2418c3071924e59940f15d163a5c30e3d936cce863bad02c1eb"
     },
     {
+      "path": "assets/videos/gallery/sim-multi-livingroom-decisions-16x9.mp4",
+      "bytes": 20939083,
+      "sha256": "925001a8b2fb4ba1927193923d05b4cf216474ada7ed322e00f1f94883851efb"
+    },
+    {
       "path": "assets/videos/gallery/sim-multi-livingroom.mp4",
       "bytes": 15640729,
       "sha256": "0c13b12c6fe5a9e5f9a1c310cb888da0bf9f5121802afc6d1d50189d9f4f33db"
@@ -49,6 +84,11 @@
       "path": "assets/videos/gallery/sim-multi-lounge-16x9.mp4",
       "bytes": 8395982,
       "sha256": "f1bd3767dce4b83edd96be01d528e8b5a8111b2b0d06c61fab04ba8f2353a9e7"
+    },
+    {
+      "path": "assets/videos/gallery/sim-multi-lounge-decisions-16x9.mp4",
+      "bytes": 17139293,
+      "sha256": "ca9d2a1f907ba4621cb9169ad7273f46ac069d23903be2776159eb17082bba7e"
     },
     {
       "path": "assets/videos/gallery/sim-multi-lounge.mp4",
@@ -61,14 +101,34 @@
       "sha256": "c7051ed6a8589bb53c6e32d3d92a6d01eec1f8d07997281c72a7a11007864f63"
     },
     {
+      "path": "assets/videos/gallery/sim-single-bathtub-decisions-16x9.mp4",
+      "bytes": 23078622,
+      "sha256": "d75fb18c0b1e6edd45de2efe041d07314b83111658f5c5d373fc414a2f0db3bd"
+    },
+    {
       "path": "assets/videos/gallery/sim-single-laptop-16x9.mp4",
       "bytes": 2616154,
       "sha256": "8e6fc430bea2dcbbad8cf5f75c04cc96aa1943b102da4c61e90e933fe29de73c"
     },
     {
+      "path": "assets/videos/gallery/sim-single-laptop-decisions-16x9.mp4",
+      "bytes": 7623698,
+      "sha256": "e60ae672eca8751959e1991ca92ca6874a43ad7ffb3f9775ce243120eba6879e"
+    },
+    {
       "path": "assets/videos/gallery/sim-single-laptop.mp4",
       "bytes": 3981445,
       "sha256": "d657984bef6648bf8aee2e56d6ad948e6dfcf921845a466441fb80f9749b0f2b"
+    },
+    {
+      "path": "assets/videos/gallery/sim-single-microwave-decisions-16x9.mp4",
+      "bytes": 7209746,
+      "sha256": "07adaee967d43108209b3cb252d949e296cb7b3fa082f2997da58d54d0bcd3c4"
+    },
+    {
+      "path": "assets/videos/gallery/sim-single-pink-bed-decisions-16x9.mp4",
+      "bytes": 13798999,
+      "sha256": "1eaeb55bad64fe990cacfd26175651e373f0aad074a790e2f34de8cd43042a1c"
     },
     {
       "path": "assets/videos/overview/overview-960.mp4",

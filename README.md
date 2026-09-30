@@ -2,7 +2,9 @@
 
 Video assets for **SuperNav: An Agentic Navigation System for Any Task in Any Scene**.
 
-This repository contains the twelve videos used by the current project page (ten gallery videos and two overview videos), plus four earlier 4:3 edits retained for reproducibility. The four new `*-16x9.mp4` simulation videos preserve the complete approved picture with white side bars. Files are copied without recompression. The webpage, images, fonts, original source footage, and local preview files are maintained separately.
+This repository contains published video assets for the SuperNav project page. It includes the existing twelve project-page videos (ten gallery videos and two overview videos), four earlier 4:3 edits retained for reproducibility, and twelve additional 1080p navigation demos with decision overlays. The webpage, images, fonts, original source footage, and local preview files are maintained separately.
+
+The existing four `*-16x9.mp4` simulation videos preserve the complete approved picture with white side bars. The additional `*-decisions-16x9.mp4` videos use a 1920×1080 layout with a third-person robot replay, the recorded first-person view and selected point, decision bubbles, and thought cards. All files are copied from their finished edits without recompression.
 
 ## Video URLs
 
@@ -13,6 +15,29 @@ https://raw.githubusercontent.com/The0xKa1/SuperNav-assets/main/
 ```
 
 For reproducible links, replace `main` with the commit SHA of the desired revision.
+
+## Navigation demos with decision overlays
+
+These twelve additional videos cover four episodes each of Single-object Navigation, Multi-object Navigation, and Demand-driven Navigation. Each edit preserves all saved navigation movement frames in order, with reading holds added for cards. Replay rates are 10 fps for the Gaussian-splat scenes and 8 fps for AI2-THOR; edited duration is not evaluation runtime.
+
+`AGENT NOTE` and `AGENT DESCRIPTION` cards quote publicly recorded text or tool arguments. `ACTION SUMMARY` cards summarize the actual recorded tool call where no public narration was saved. Selected-point overlays appear on the original image used for that decision. The completed episodes retain their recorded STOP actions.
+
+| Task | File | Duration (s) | Size (MiB) |
+| --- | --- | ---: | ---: |
+| Single-object Navigation | `assets/videos/gallery/sim-single-laptop-decisions-16x9.mp4` | 70.700 | 7.27 |
+| Single-object Navigation | `assets/videos/gallery/sim-single-bathtub-decisions-16x9.mp4` | 132.300 | 22.01 |
+| Single-object Navigation | `assets/videos/gallery/sim-single-pink-bed-decisions-16x9.mp4` | 82.000 | 13.16 |
+| Single-object Navigation | `assets/videos/gallery/sim-single-microwave-decisions-16x9.mp4` | 54.900 | 6.88 |
+| Multi-object Navigation | `assets/videos/gallery/sim-multi-cafe-decisions-16x9.mp4` | 65.600 | 12.60 |
+| Multi-object Navigation | `assets/videos/gallery/sim-multi-lounge-decisions-16x9.mp4` | 94.700 | 16.35 |
+| Multi-object Navigation | `assets/videos/gallery/sim-multi-livingroom-decisions-16x9.mp4` | 116.000 | 19.97 |
+| Multi-object Navigation | `assets/videos/gallery/sim-multi-crossroom-decisions-16x9.mp4` | 216.200 | 27.61 |
+| Demand-driven Navigation | `assets/videos/gallery/sim-demand-work-area-decisions-16x9.mp4` | 113.500 | 19.08 |
+| Demand-driven Navigation | `assets/videos/gallery/sim-demand-bathroom-decisions-16x9.mp4` | 68.875 | 11.83 |
+| Demand-driven Navigation | `assets/videos/gallery/sim-demand-lost-items-decisions-16x9.mp4` | 148.500 | 25.35 |
+| Demand-driven Navigation | `assets/videos/gallery/sim-demand-cleaning-supplies-decisions-16x9.mp4` | 56.375 | 6.10 |
+
+## Existing project-page videos and earlier edits
 
 | File | Size (MiB) |
 | --- | ---: |
