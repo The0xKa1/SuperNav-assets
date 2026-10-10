@@ -1,6 +1,11 @@
 {
   "files": [
     {
+      "path": "assets/images/navigationagent-wechat-group.png",
+      "bytes": 128645,
+      "sha256": "0dea492de10815db51f167ff3b7eae1ae93a38ed6f1c99bff767f814141ada58"
+    },
+    {
       "path": "assets/videos/gallery/real-find-printer-then-trashbin.mp4",
       "bytes": 19076384,
       "sha256": "9bec185041e4343fc63028569b6de7a1fbfbf3d980acb5da720974249f20b6e4"

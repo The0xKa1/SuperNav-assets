@@ -1,10 +1,16 @@
 # SuperNav Assets
 
-Video assets for **SuperNav: An Agentic Navigation System for Any Task in Any Scene**.
+Media assets for **SuperNav: An Agentic Navigation System for Any Task in Any Scene**.
 
 This repository contains published video assets for the SuperNav project page. It includes the existing twelve project-page videos (ten gallery videos and two overview videos), four earlier 4:3 edits retained for reproducibility, and twelve additional 1080p navigation demos with decision overlays. The webpage, images, fonts, original source footage, and local preview files are maintained separately.
 
 The existing four `*-16x9.mp4` simulation videos preserve the complete approved picture with white side bars. The additional `*-decisions-16x9.mp4` videos use a 1920×1080 layout with a third-person robot replay, the recorded first-person view and selected point, decision bubbles, and thought cards. All files are copied from their finished edits without recompression.
+
+## Community QR code
+
+[NavigationAgent WeChat group QR code](https://raw.githubusercontent.com/The0xKa1/SuperNav-assets/main/assets/images/navigationagent-wechat-group.png)
+
+The original image is stored at `assets/images/navigationagent-wechat-group.png` without modification. The image states that the QR code is valid before October 17, 2026.
 
 ## Video URLs
 
@@ -58,4 +64,4 @@ These twelve additional videos cover four episodes each of Single-object Navigat
 | `assets/videos/overview/overview-960.mp4` | 1.87 |
 | `assets/videos/overview/overview.mp4` | 6.30 |
 
-`manifest.json` records the size and SHA-256 checksum of each video. When updating a file, update its manifest entry as well. Keep unpublished source footage and unrelated files out of this repository.
+`manifest.json` records the size and SHA-256 checksum of each asset. When updating a file, update its manifest entry as well. Keep unpublished source footage and unrelated files out of this repository.
